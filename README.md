@@ -1,0 +1,1 @@
+The Scientech DN01 is an educational training platform designed to teach the fundamentals of UAV (Unmanned Aerial Vehicle) electronics and control systems. It helps students, educators, and hobbyists understand how drones work by offering hands-on experience with real drone components.
